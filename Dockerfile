@@ -1,0 +1,1 @@
+FROM nitra/centos7
